@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cursor skills: coding-guide & safe-coding
 
 Two [Agent Skills](https://docs.cursor.com) for Cursor (or compatible) use.
@@ -30,3 +31,6 @@ Copy the two folders into the project:
 ## License
 
 No license set by default; add a `LICENSE` file in this repo if you need one.
+=======
+# coding-skills
+>>>>>>> fca86d1a0647c2f90e97ccd6851507bf8bae9f55
